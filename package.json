@@ -1,0 +1,15 @@
+{
+  "name": "demo-autoscripter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Yangfan2016/demo-autoscripter.git",
+  "author": "yangfan2016 <15234408101@163.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "puppeteer": "^1.17.0"
+  },
+  "scripts": {
+    "start":"node ./src/main.js"
+  }
+}
